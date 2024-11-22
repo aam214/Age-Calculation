@@ -18,7 +18,10 @@ text-align: center;
 }
 label{
   font-size: 40px;
+  align-items: baseline;
 }
 input{
-  padding: 18px 40px;
+  padding: 18px 40px 18px 40px;
+  border-radius: 2px;
+  font-size: 30px;
 }
